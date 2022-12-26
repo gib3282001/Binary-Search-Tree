@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Implementation of Binary Search Tree and Red Black Search Tree for my cs1501 class.
+Implementation of iterative, recursive and red black binary search trees for my cs1501 class.
