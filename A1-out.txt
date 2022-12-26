@@ -1,0 +1,106 @@
+Testing put():
+BST: 
+	put() calls attempted: 2230368
+	Total time for put() calls: 3.4733695
+IterativeBST: 
+	put() calls attempted: 2230368
+	Total time for put() calls: 3.7903529
+RedBlackBST: 
+	put() calls attempted: 2230368
+	Total time for put() calls: 4.3207938
+
+Tree Type: BST
+	Size: 2000000
+	Height: 56
+	Ave Path Length: 27.062486
+Tree Type: IterativeBST
+	Size: 2000000
+	Height: 56
+	Ave Path Length: 27.062486
+Tree Type: RedBlackBST
+	Size: 2000000
+	Height: 30
+	Ave Path Length: 20.744095
+
+Testing get():
+BST: 
+	Total time for get() calls: 27.6115488
+	Successful searches: 3998410
+	Unsuccessful searches: 16001590
+IterativeBST: 
+	Total time for get() calls: 24.7083902
+	Successful searches: 3998410
+	Unsuccessful searches: 16001590
+RedBlackBST: 
+	Total time for get() calls: 23.8499839
+	Successful searches: 3998410
+	Unsuccessful searches: 16001590
+
+Testing delete():
+BST: 
+	Total time for delete() calls: 6.9068401
+	Attempts: 2878841
+IterativeBST: 
+	Total time for delete() calls: 3.9571812
+	Attempts: 2878841
+RedBlackBST: 
+	Total time for delete() calls: 5.4082337
+	Attempts: 2878841
+
+Tree Type: BST
+	Size: 1500000
+	Height: 54
+	Ave Path Length: 26.456098
+Tree Type: IterativeBST
+	Size: 1500000
+	Height: 54
+	Ave Path Length: 26.456098
+Tree Type: RedBlackBST
+	Size: 1500000
+	Height: 28
+	Ave Path Length: 20.178138
+
+Adding 500000 new items to each tree: 
+BST: 
+	put() calls attempted: 606030
+	Total time for put() calls: 1.6552008
+IterativeBST: 
+	put() calls attempted: 606030
+	Total time for put() calls: 1.3052454
+RedBlackBST: 
+	put() calls attempted: 606030
+	Total time for put() calls: 1.4509959
+
+Tree Type: BST
+	Size: 2000000
+	Height: 55
+	Ave Path Length: 26.996542
+Tree Type: IterativeBST
+	Size: 2000000
+	Height: 55
+	Ave Path Length: 26.996542
+Tree Type: RedBlackBST
+	Size: 2000000
+	Height: 29
+	Ave Path Length: 20.790882
+
+Adding numbers 1 to 1000 from smallest to largest: 
+BST: 
+	Total time for put() calls: 5.175E-4
+IterativeBST: 
+	Total time for put() calls: 4.699E-4
+RedBlackBST: 
+	Total time for put() calls: 6.791E-4
+
+Tree Type: BST
+	Size: 2000781
+	Height: 55
+	Ave Path Length: 26.99682124130527
+Tree Type: IterativeBST
+	Size: 2000781
+	Height: 55
+	Ave Path Length: 26.99682124130527
+Tree Type: RedBlackBST
+	Size: 2000781
+	Height: 29
+	Ave Path Length: 20.792084690928192

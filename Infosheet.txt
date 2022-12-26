@@ -1,0 +1,33 @@
+Name:Gabriel Badillo Assignment #: 1
+
+Lecture Day and Time: m,t,w,h 9:30-11:15am
+
+Program Due Date: 5/27/2022
+
+Handed in Date: 5/27/2022 
+
+Source code file name(s):
+
+A1Interface.java, BST.java, IterativeBST.java, RedBlackBST.java
+
+Other file name(s) (if relevant): A1Test.java, Assig1.java, Queue.java, StdIn.java, StdOut.java, Writeup.docx
+
+Does your program compile without error?: yes 
+
+If not, what is/are the error(s)?: 
+
+Does your program run without error?: no 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+In the Assig1.java file there is a portion of the code that is commented out. 
+This portion of the code causes a NullPointerException when trying to use the select() method. Everything else runs correctly.
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
